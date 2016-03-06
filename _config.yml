@@ -1,0 +1,28 @@
+name: CRMpartners
+favicon: null
+layout_spectrum: 0.7551157465204597
+typography_spectrum: 0.38440090068615973
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3410483121406287
+  lightness: 0.8202922334894538
+  saturation: 0.1077548514585942
+  rhythmicContrast: 0.003950053593143821
+purpose: []
